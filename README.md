@@ -129,7 +129,7 @@ The application will automatically open in your default browser at `http://local
 
 **Last Minute Genius** was built to make studying smarter, not harder.
 
-* Developed by **[Your Name/Username]**
+* Developed by **[Alaa Elsharkawy]**
 * GitHub: [@yourusername](https://github.com/AlaaElsharkawyy)
 * LinkedIn: [Your Profile](linkedin.com/in/alaa-elsharkawy)
 
